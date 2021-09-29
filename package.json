@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "jest": "^27.2.3"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "101",
+  "description": "Simple node.js starting guide",
+  "version": "1.0.0",
+  "main": "server.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lipemenezes/node-101.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lipemenezes/node-101/issues"
+  },
+  "homepage": "https://github.com/Lipemenezes/node-101#readme"
+}
